@@ -2478,6 +2478,7 @@ goto :EOF
         echo   %cyand% Notice  %u%        Validated that all files and folders have been deleted in %grayd% %folder_distrb%%u%
     )
 
+    echo   %greenl% Success %u%        Exiting, Press any key to exit%u%
     pause > nul
     goto :main
 
